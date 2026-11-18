@@ -2,6 +2,9 @@
 
 Projeto desenvolvido como parte do **Desafio 3 do curso de HTML da [DIO.me](https://www.dio.me/)**, com o objetivo de criar uma página inspirada na Wikipédia, utilizando um layout moderno e aplicando conceitos de HTML semântico, estruturação de conteúdo e acessibilidade.
 
+### Link
+https://gabriel-eredin.github.io/Desafio-3-de-HTML-DIO-Wikipedia-com-Layout-Moderno/
+
 ## 📖 Sobre o Projeto
 
 A Enciclopédia Livre é um projeto fictício de enciclopédia dedicada ao universo dos RPGs de mesa. A página apresenta um artigo sobre **Cyberpunk 2020**, abordando sua história, edições, ambientação e adaptações para outras mídias.
